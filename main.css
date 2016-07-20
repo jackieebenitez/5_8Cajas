@@ -1,0 +1,23 @@
+.uno {
+	border: 2px;
+	background-color: pink;
+	width:60px;
+	height:60px;
+	margin:5px;
+}
+
+.papa {
+	background-color: pink;
+	width:235px;
+	height:75px;
+	padding:5px;
+}
+
+.hijo {
+	display:inline-block;
+	border: 2px;
+	background-color: yellow;
+	width:60px;
+	height:60px;
+	margin:5px;
+}
